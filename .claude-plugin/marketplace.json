@@ -16,7 +16,7 @@
         "url": "https://github.com/markhamsquareventures/essentials.git"
       },
       "description": "Essential skills, commands, and hooks for the Markham Square team",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "strict": true
     }
   ]
