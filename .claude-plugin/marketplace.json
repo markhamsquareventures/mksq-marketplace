@@ -1,0 +1,23 @@
+{
+  "name": "mksq-marketplace",
+  "owner": {
+    "name": "Nick Basile",
+    "email": "nick@markhamsq.com"
+  },
+  "metadata": {
+    "description": "Skills, workflows, and productivity tools created by Markham Square",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "essentials",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/markhamsquareventures/essentials.git"
+      },
+      "description": "Essential skills, commands, and hooks for the Markham Square team",
+      "version": "0.0.1",
+      "strict": true
+    }
+  ]
+}
